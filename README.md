@@ -104,7 +104,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 
 ## Contact
-For questions or collaboration, feel free to open an issue or reach out to **your_email@example.com**.
+For questions or collaboration, feel free to open an issue or reach out to **DigiMorph2025@gmail.com**.
 
 🚀 Join us in building the future of **distributed LLM inference!**
 
