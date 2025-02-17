@@ -9,6 +9,7 @@ This project focuses on optimizing the inference process of large language model
 
 This patent is based on the **February 2024 prototype and experimental results** from the **DigiMorph Lab team**, demonstrating real-world feasibility and performance improvements in decentralized AI inference. The **core content** of the patent is open-sourced in this repository, while the **full patent has been filed in Australia, the United States, and China in 2024.**
 
+
 ## Key Innovations
 ### ✅ Distributed Task Allocation for LLMs
 - Instead of executing LLMs on a single device, this method **distributes inference tasks** across multiple mobile devices, improving efficiency and reducing latency.
@@ -28,6 +29,7 @@ This patent is based on the **February 2024 prototype and experimental results**
 ### ✅ Optimized Communication Overhead
 - Introduces a **network link quality penalty term** to balance computation and communication trade-offs.
 - Implements **effective payload calculations for communication protocols** to enhance transmission efficiency.
+
 
 ## Related Research & Patents
 This patent builds upon existing research in distributed inference and edge computing. Some related works include:
@@ -52,6 +54,7 @@ Unlike existing methods that rely on centralized high-performance clusters or si
 - **ONNX-Based Adaptive Model Deployment**: Provides an end-to-end process for **model segmentation, conversion, and execution on Android devices** without requiring high-end GPUs.
 - **Robustness in Weak Network Conditions**: Unlike existing solutions that assume **high-bandwidth and low-latency environments**, this approach incorporates **packet loss modeling and jitter adaptation**, ensuring performance even under unstable network conditions.
 
+
 ## The Value of This Patent for DigiMorph
 As one of the foundational technologies for **DigiMorph**, this patent plays a critical role in shaping the platform’s approach to **AI-driven digital embodiment and decentralized intelligence**.
 
@@ -69,12 +72,14 @@ As one of the foundational technologies for **DigiMorph**, this patent plays a c
 
 This patent serves as a cornerstone for DigiMorph’s **AI Agent evolution**, offering a **scalable, decentralized, and intelligent infrastructure** to support **multi-agent collaboration, real-world AI autonomy, and next-gen digital intelligence**.
 
+
 ## Encouraging Community Innovation
 We encourage researchers and developers to explore new possibilities in **distributed AI inference** by contributing to discussions, improving documentation, and proposing future innovations. Possible directions include:
 - **Enhanced scheduling algorithms** for better load balancing.
 - **Integration with decentralized AI platforms**.
 - **Hardware-specific optimizations** for improved efficiency.
 - **Security and privacy enhancements** for distributed AI inference.
+
 
 ## Repository Structure
 ```
@@ -87,13 +92,16 @@ We encourage researchers and developers to explore new possibilities in **distri
 │── CONTRIBUTING.md
 ```
 
+
 ## Contributing
 We welcome contributions from the community! To contribute:
 1. Fork the repository.
 2. Submit a pull request with suggested improvements or discussions on future innovations.
 
+
 ## License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
 
 ## Contact
 For questions or collaboration, feel free to open an issue or reach out to **your_email@example.com**.
