@@ -87,7 +87,8 @@ We encourage researchers and developers to explore new possibilities in **distri
 │── README.md
 │── LICENSE
 │── docs/
-│   ├── patent_application.md
+│   ├── patent_en.pdf
+│   ├── patent_zh.pdf
 │   ├── patent_summary.md
 │── CONTRIBUTING.md
 ```
